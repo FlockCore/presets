@@ -1,0 +1,26 @@
+{
+  "name": "@flockcore/presets",
+  "version": "0.1.1",
+  "description": "dWeb Flock Presets For dWeb Network Peer Revelation",
+  "contributors": [
+    "Jared Rice Sr. <jared@dwebs.io>",
+    "Distributed Webs Project, LLC. <labs@distributedwebs.org>"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard && tape test.js | tap-spec"
+  },
+  "dependencies": {
+    "xtend": "^4.0.1"
+  },
+  "devDependencies": {
+    "@flockcore/revelation": "flockcore/revelation#master",
+    "standard": "*",
+    "tap-spec": "^4.1.1",
+    "tape": "^4.4.0"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
