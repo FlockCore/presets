@@ -1,6 +1,6 @@
 var extend = require('xtend')
 
-var DWEB_DOMAIN = 'dpack.local'
+var DWEB_DOMAIN = 'dweb.local'
 var DEFAULT_REVELATION = [
   'revelation1.dwebs.io',
   'revelation2.dwebs.io',
