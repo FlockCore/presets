@@ -11,9 +11,6 @@ var DEFAULT_REVELATION = [
 var DEFAULT_BOOTSTRAP = [
   'bootstrap1.dwebs.io:6620',
   'bootstrap2.dwebs.io:6620',
-  'bootstrap3.dwebs.io:6620',
-  'bootstrap4.dwebs.io:6620',
-  'bootstrap5.dwebs.io:6620',
 ]
 
 var DEFAULT_OPTS = {
