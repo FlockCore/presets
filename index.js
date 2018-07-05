@@ -2,11 +2,11 @@ var extend = require('xtend')
 
 var DWEB_DOMAIN = 'dweb.local'
 var DEFAULT_REVELATION = [
-  'revelation1.dwebs.io',
-  'revelation2.dwebs.io',
-  'revelation3.dwebs.io',
-  'revelation4.dwebs.io',
-  'revelation5.dwebs.io'
+  'revelation1.dwebs.io:6620',
+  'revelation2.dwebs.io:6620',
+  'revelation3.dwebs.io:6620',
+  'revelation4.dwebs.io:6620',
+  'revelation5.dwebs.io:6620'
 ]
 var DEFAULT_BOOTSTRAP = [
   'bootstrap1.datprotocol.com:6881',
