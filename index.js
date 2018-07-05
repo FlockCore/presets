@@ -6,11 +6,13 @@ var DEFAULT_REVELATION = [
   'revelation2.dwebs.io',
   'revelation3.dwebs.io',
   'revelation4.dwebs.io',
-  'revelation5.dwebs.io',
+  'revelation5.dwebs.io'
 ]
 var DEFAULT_BOOTSTRAP = [
-  'bootstrap1.dwebs.io:6620',
-  'bootstrap2.dwebs.io:6620',
+  'bootstrap1.datprotocol.com:6881',
+  'bootstrap2.datprotocol.com:6881',
+  'bootstrap3.datprotocol.com:6881',
+  'bootstrap4.datprotocol.com:6881'
 ]
 
 var DEFAULT_OPTS = {
