@@ -9,9 +9,7 @@ var DEFAULT_REVELATION = [
 ]
 var DEFAULT_BOOTSTRAP = [
   'bootstrap1.dwebs.io:6881',
-  'bootstrap2.datprotocol.com:6881',
-  'bootstrap3.datprotocol.com:6881',
-  'bootstrap4.datprotocol.com:6881'
+  'bootstrap2.dwebs.io:6881'
 ]
 
 var DEFAULT_OPTS = {
