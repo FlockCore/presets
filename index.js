@@ -6,7 +6,6 @@ var DEFAULT_REVELATION = [
   'revelation2.dwebs.io:6620',
   'revelation3.dwebs.io:6620',
   'revelation4.dwebs.io:6620',
-  'revelation5.dwebs.io:6620'
 ]
 var DEFAULT_BOOTSTRAP = [
   'bootstrap1.datprotocol.com:6881',
